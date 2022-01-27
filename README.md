@@ -2,7 +2,7 @@
 
 Hey 👋
 
-I am polyglot software developer based on Bengaluru, India, love to work with web technologies and OSS . I am a lifetime learner in exploration mode.
+I am polyglot software developer based in Bengaluru, India, love to work with web technologies and OSS . I am a lifetime learner in exploration mode.
 
 I spend a plenty of time working on the following OSS projects as below:
 
