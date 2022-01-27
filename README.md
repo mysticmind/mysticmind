@@ -1,3 +1,5 @@
+![cover image](https://github.com/mysticmind/mysticmind/blob/main/cover.jpg "Cover image")
+
 Hey 👋
 
 I am polyglot software developer based on Bengaluru, India, love to work with web technologies and OSS . I am a lifetime learner in exploration mode.
@@ -10,5 +12,5 @@ I spend a plenty of time working on the following OSS projects as below:
 
 I also contribute to other OSS projects as well.
 
-If my work has helped you in any form or fashion, you can now buy me a coffee!
+If my work has helped you in any form or fashion, you can now buy me a coffee!<br>
 <a href="https://www.buymeacoffee.com/babuannamalai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
