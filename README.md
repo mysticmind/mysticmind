@@ -12,5 +12,6 @@ I spend a plenty of time working on the following OSS projects as below:
 
 I also contribute to other OSS projects as well.
 
-If my work has helped you in any form or fashion, you can now buy me a coffee!<br>
-<a href='https://ko-fi.com/babuannamalai' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <a href="https://www.buymeacoffee.com/babuannamalai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+If my work has helped you in any form or fashion, you can sponsor me using the options below<br>
+<!-- Place this tag where you want the button to render. -->
+<a href="https://github.com/sponsors/mysticmind" target="_blank"><img height="30" style="border:0px;height:30px;" src="https://img.shields.io/static/v1?label=GitHub Sponsor&message=%E2%9D%A4&logo=GitHub" border="0" alt="GitHub Sponsor" /></a> <a href="https://ko-fi.com/babuannamalai" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi4.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a> <a href="https://www.buymeacoffee.com/babuannamalai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="36" width="174"></a>
