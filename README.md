@@ -6,7 +6,7 @@ I am Babu Annamalai a polyglot software developer based in Bengaluru, love to wo
 
 I spend a plenty of time working on the following OSS projects as below:
 
-- Co-maintainer of [Marten](http://martendb.io/). I am available in the project's gitter channel to help with any queries/questions on Marten. This is the most successful and active project in terms of user base.
+- Co-maintainer of [Marten](http://martendb.io/). I am available in the project's Discord channel to help with any queries/questions on Marten. This is the most successful and active project in terms of user base.
 
 - Creator and maintainer of [ReverseMarkdown.NET](https://github.com/mysticmind/reversemarkdown-net), [MysticMind.PostgresEmbed](https://github.com/mysticmind/mysticmind-postgresembed) and [.NET Sort Refs](https://github.com/mysticmind/dotnet-sort-refs)
 
