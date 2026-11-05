@@ -35,7 +35,7 @@ Questions about Marten? I'm around on the Critter Stack [Discord](https://discor
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [AgentSkills CLI 1.1: skills from NuGet, npm and git, how it compares with dotnet-package-skills, and what's next](https://mysticmind.dev/agentskills-cli-1-1-and-dotnet-package-skills/)
+- [AgentSkills CLI 1.1: skills from NuGet, npm and git, how it compares with dotnet-package-skills, and what&#39;s next](https://mysticmind.dev/agentskills-cli-1-1-and-dotnet-package-skills/)
 - [ReverseMarkdown passes 7.5M downloads; 6.3.0 halves memory on real-world pages](https://mysticmind.dev/reversemarkdown-75m-downloads-630-halves-memory/)
 - [mise and Infisical for .NET: One file for tools, zero files for secrets](https://mysticmind.dev/mise-and-infisical-for-dotnet/)
 - [Search in Polecat, Part 1: Full text search on an index it owns](https://mysticmind.dev/polecat-search-part-1-full-text-search/)
