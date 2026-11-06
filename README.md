@@ -39,7 +39,7 @@ Questions about Marten? I'm around on the Critter Stack [Discord](https://discor
 - [ReverseMarkdown passes 7.5M downloads; 6.3.0 halves memory on real-world pages](https://mysticmind.dev/reversemarkdown-75m-downloads-630-halves-memory/)
 - [mise and Infisical for .NET: One file for tools, zero files for secrets](https://mysticmind.dev/mise-and-infisical-for-dotnet/)
 - [Search in Polecat, Part 1: Full text search on an index it owns](https://mysticmind.dev/polecat-search-part-1-full-text-search/)
-- [Search in Polecat, Part 3: Hybrid search and reciprocal rank fusion](https://mysticmind.dev/polecat-search-part-3-hybrid-search/)
+- [Search in Polecat, Part 2: Vector search on a computed VECTOR column](https://mysticmind.dev/polecat-search-part-2-vector-search/)
 <!-- BLOG-POST-LIST:END -->
 
 More at [mysticmind.dev](https://mysticmind.dev) · [RSS](https://mysticmind.dev/rss.xml)
